@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/olgun/Desktop/shopapp/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/olgun/Desktop/shopapp/wwwroot/img/1.jpg",
+      "PackagePath": "staticwebassets/img/1.jpg"
+    },
+    {
+      "Id": "/Users/olgun/Desktop/shopapp/wwwroot/img/2.jpg",
+      "PackagePath": "staticwebassets/img/2.jpg"
+    },
+    {
+      "Id": "/Users/olgun/Desktop/shopapp/wwwroot/img/3.jpg",
+      "PackagePath": "staticwebassets/img/3.jpg"
+    },
+    {
+      "Id": "/Users/olgun/Desktop/shopapp/wwwroot/img/4.jpg",
+      "PackagePath": "staticwebassets/img/4.jpg"
+    },
+    {
+      "Id": "/Users/olgun/Desktop/shopapp/wwwroot/img/5.jpg",
+      "PackagePath": "staticwebassets/img/5.jpg"
+    },
+    {
+      "Id": "/Users/olgun/Desktop/shopapp/wwwroot/img/6.jpg",
+      "PackagePath": "staticwebassets/img/6.jpg"
+    },
+    {
+      "Id": "/Users/olgun/Desktop/shopapp/wwwroot/img/7.jpg",
+      "PackagePath": "staticwebassets/img/7.jpg"
+    },
+    {
+      "Id": "/Users/olgun/Desktop/shopapp/wwwroot/img/slider1.png",
+      "PackagePath": "staticwebassets/img/slider1.png"
+    },
+    {
+      "Id": "/Users/olgun/Desktop/shopapp/wwwroot/img/slider2.png",
+      "PackagePath": "staticwebassets/img/slider2.png"
+    },
+    {
+      "Id": "/Users/olgun/Desktop/shopapp/wwwroot/img/slider3.png",
+      "PackagePath": "staticwebassets/img/slider3.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.shopapp.props",
+      "PackagePath": "build\\shopapp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.shopapp.props",
+      "PackagePath": "buildMultiTargeting\\shopapp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.shopapp.props",
+      "PackagePath": "buildTransitive\\shopapp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.shopapp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
